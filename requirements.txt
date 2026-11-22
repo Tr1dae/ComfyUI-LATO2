@@ -1,0 +1,7 @@
+# all already present in a standard ComfyUI portable install
+trimesh
+transformers>=4.47
+huggingface_hub
+safetensors
+Pillow
+numpy
