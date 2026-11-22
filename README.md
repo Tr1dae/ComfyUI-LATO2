@@ -112,4 +112,5 @@ Needs a recent ComfyUI with the native `MESH` / `VOXEL` types (Trellis2 support)
 ## Credits / license
 
 This pack: MIT (`LICENSE`). LATO.2 © its authors, MIT (see `vendor/lato2_vendor/LICENSE-LATO2`; vendored commit in `UPSTREAM_COMMIT`).
+The example mesh `example_workflows/lato2_example_crocodile.glb` is from the LATO.2 repository.
 Builds on TRELLIS / TRELLIS.2 (MIT) and TripoSF. DINOv2 weights: Apache-2.0.

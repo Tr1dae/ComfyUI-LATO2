@@ -19,7 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-The vendored LATO.2 code in vendor/lato2_vendor/ is MIT-licensed by its authors;
-see vendor/lato2_vendor/LICENSE-LATO2. The example mesh
-example_workflows/lato2_example_crocodile.glb comes from the LATO.2 repository.
